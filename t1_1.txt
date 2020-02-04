@@ -7,16 +7,10 @@ sdfsd
 f
 sdf
 sdfsdf
-=======
+
+testownia 2
+
 testownia 1
-d
-sdddfsdf
-d
-sddfsd
-fd
-sdf
-sddfsdf
-d
-d
-d
-asdasdasd>>>>>>> 4b093128ef8afbd1956855421044b66ab3e46651
+
+testownia 2
+>>>>>>> develop
