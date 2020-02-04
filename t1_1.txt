@@ -1,14 +1,3 @@
 
-te333stownia 1
-
-sdfsdf
-
-sdfsd
-f
-sdf
-sdfsdf
-
 testownia 2
 testownia 1
-testownia 2
->>>>>>> develop
