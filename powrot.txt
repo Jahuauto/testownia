@@ -1,7 +1,0 @@
-Powrot 0
-Powrot 1
---------
-Powrot 2
---------
-Powrot 3
---------
