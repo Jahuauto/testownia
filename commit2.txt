@@ -1,7 +1,4 @@
-Commit 2
-<<<<<<< HEAD
+
 Commit 4
 commit 5
 Commit 6
-=======
->>>>>>> parent of 2f47ee0... Commit 4
